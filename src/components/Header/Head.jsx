@@ -6,7 +6,7 @@ const Head = () => {
         <HeadContainer>
             <Image src={image} alt="news"/>
             <Gradient />
-            <h2>The Kyiv Times</h2>
+            <h2>The NY Times</h2>
         </HeadContainer>
     )
 }
